@@ -36,7 +36,7 @@ El entrenamiento comienza en un nivel muy bajo y no hace falta un gran conocimie
 
 Cinco semanas
 
-Tres semanas para el aprendizaje (guiado) y dos más para realizar su propio proyecto.
+Tres semanas para el aprendizaje (autodidacta) y dos más para realizar su propio proyecto.
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#asistencia)**Asistencia**
 
