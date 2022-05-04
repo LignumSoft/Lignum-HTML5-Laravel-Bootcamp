@@ -62,7 +62,7 @@ Sin embargo, debemos recordar a los participantes que un buen diseño es aquel q
     -   [SublimeText](http://www.sublimetext.com/)
 
 3.  Google Meet y discord para organizar las reuniones.
-4.  Crear una cuenta en [GitHub](https://github.com/). Follow this guideline to setup your account.
+4.  Crear una cuenta en [GitHub](https://github.com/).
 5. Descargar e instalar un entorno de desarrollo, por ejemplo [https://www.apachefriends.org/es/index.html](https://www.apachefriends.org/es/index.html)
 6. Descargar e instalar laravel -> [https://laravel.com/docs/8.x](https://laravel.com/docs/8.x)
 7.  Haz un Fork del [Repositorio base](https://github.com/LignumSoft/Lignum-HTML5-Laravel-base-folders) para usar como base del proyecto.
