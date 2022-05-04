@@ -24,9 +24,9 @@
 
 10. [Tu primer proyecto web](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#tu-primer-proyecto-web)
 
-### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#objectivo)**Objectivo**
+### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#objectivo)**Objetivo**
 
-Este curso es para aprender las básicas del Desarrollo WEB (UI), una vez que termines esto deberías ser capaz de realizar una página preparada para web o móviles.
+El presente curso es para aprender las básicas del Desarrollo WEB (UI), una vez que lo termines, deberías ser capaz de realizar una página preparada para entornos web o móviles
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#participantes)**Participantes**
 
@@ -69,7 +69,7 @@ Sin embargo, debemos recordar a los participantes que un buen diseño es aquel q
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#pautas)**Pautas**
 
-1.  Las primeras tres semanas serán de aprendizaje intensive (Autodidacta). Habra tutores para responder preguntas tecnicas.
+1.  Las primeras tres semanas serán de aprendizaje intensivo (Autodidacta). Habrá tutores para responder preguntas técnicas.
 2.  Las últimas dos semanas serán para desarrollar una aplicación que cumplan con lo aprendido.
 3.  Los ejercicios DEBEN funcionar al probarlos desde un entorno móvil (Dispositivo celular, emulador, etc).
 4.  Se anima a trabajar en equipo, sin embargo, se evaluará por separado a CADA PERSONA.
@@ -78,15 +78,15 @@ Sin embargo, debemos recordar a los participantes que un buen diseño es aquel q
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#aprendiendo)**Aprendiendo**
 
-1.  **Lectura:** Todos los días tendrás que aprender del material provisto.
+1.  **Aprendizaje:** Todos los días tendrás que aprender del material provisto.
 2.  **Practica:** Utilizaras lo leído para hacer actividades sencillas. Si crees que no tendrás tiempo para todo, las “actividades importantes” deberían ser tu objetivo.
 3.  **Preparado, listo, sube los cambios:** Deberás subir los cambios POR TEMA, es decir al finalizar un tema/ejercicio tienes que subir tus cambios. De no haber terminado un tema en esas maravillosas 16 horas despierto, sube lo que tengas hasta el final del día (¡O antes de dormir si eres nocturno!).
 
-**Introduction**
+**Introducción**
 
 A grandes rasgos se puede definir los puntos clave como HTML, CSS Y JS.
 
-HTML describe el contenido semántico y la estructura de la página web. Es un language de marcado como XML.
+HTML describe el contenido semántico y la estructura de la página web. Es un lenguaje de marcado como XML.
 
 CSS permite definir como se ve y siente el contenido, por ejemplo, con esto hacemos que un montón de texto se vea como un menú, un título tenga el tamaño indicado o la fuente sea la correcta!
 
@@ -152,7 +152,7 @@ Comprenda por qué la accesibilidad es importante:
 
 En pocas palabras: _La accesibilidad es esencial para los desarrolladores y las organizaciones que desean crear sitios web y herramientas web de alta calidad, y no excluir a las personas del uso de sus productos y servicios._
 
-A estas alturas, debería tener varios archivos .html con diferentes ejemplos de cómo crear listas, tablas, agregar imágenes, encabezados, etc. Todo el marcado es sintácticamente válido, es semántico, pasa el validador HTML y es accesible.
+A estas alturas, ya deberías tener varios archivos .html con diferentes ejemplos de cómo crear listas, tablas, agregar imágenes, encabezados, etc. Todo el marcado es sintácticamente válido, es semántico, pasa el validador HTML y es accesible.
 
 ### CSS
 
@@ -166,7 +166,7 @@ Las especificaciones CSS de W3C se pueden encontrar aquí.
 
 **Utiliza este link de la misma manera que el de las especificaciones de HTML.**
 
-**0.2.1 - Basico**
+**0.2.1 - Básico**
 
 Ejercicios
 
@@ -240,7 +240,7 @@ Imagine que hay una declaración como class=”no-puedo-usar-inline-styles” st
 
 Más información sobre el modelo de caja (cómo calcula el navegador el tamaño de las cajas): [http://www.w3.org/TR/CSS21/box.html](http://www.w3.org/TR/CSS21/box.html)
 
-¡La consola de Google Chrome tiene una funcionalidad que te ayudara con el modelo de caja! (F12 y scrollea hasta el fondo en la pestaña de estilos)
+¡La consola de Google Chrome tiene una funcionalidad que te ayudara con el modelo de caja! (F12 y desplázate hasta el fondo en la pestaña de estilos)
 
 ![clip_image005](https://user-images.githubusercontent.com/15086662/166494562-29c43a94-958a-43aa-8eca-65e24a64e0d1.png)
 
@@ -285,19 +285,21 @@ Aprenda Media Queries ( [https://css-tricks.com/css-media-queries/](https://css-
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#topic-1---javascript-y-dom-apis)Topic 1 - JavaScript, y DOM APIs
 
-**Lectura**
+**Aprendizaje**
 
-1.  En caso de que necesites, aquí hay una libro/guía para principiantes: [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
+1.  En caso de que necesites, aquí hay un libro/guía para principiantes: [https://eloquentjavascript.net/](https://eloquentjavascript.net/)
 2.  Libro para avanzados: [http://speakingjs.com/es5/index.html](http://speakingjs.com/es5/index.html)
-3.  Recomendamos siempre revisar la web para obtener documentación, framework, APIs, guias, etc, una muy buena opción es: [devdocs.io](http://devdocs.io/)
+3.  Recomendamos siempre revisar la web para obtener documentación, framework, APIs, guías, etc, una muy buena opción es: [devdocs.io](http://devdocs.io/)
+4.  Guia de javascript para usar promesas https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Using_promises
+5.  Definicion de XMLHttpRequest y ejemplo de uso https://developer.mozilla.org/es/docs/Web/API/XMLHttpRequest - https://javascript.info/xmlhttprequest
 
-**Documentacion Extra**
+**Documentación Extra**
 
 - JSONP & CORS: [http://json-p.org/](http://json-p.org/) - [http://www.html5rocks.com/en/tutorials/cors/](http://www.html5rocks.com/en/tutorials/cors/)
 
 -   La consola de debugeo de chrome :) [https://developer.chrome.com/devtools/docs/console](https://developer.chrome.com/devtools/docs/console)
 
-**Practice**
+**Práctica**
 
 1.  Creando nuestra página de índice con algunas secciones.
 
@@ -332,7 +334,7 @@ Aprenda Media Queries ( [https://css-tricks.com/css-media-queries/](https://css-
 
     -   Valida tu página usando el validador W3C: https://addons.mozilla.org/en-US/firefox/addon/web-developer/
 
-6.  Manipulacion del DOM
+6.	Manipulación  del DOM
 
     -   Escriba una función que tome como entrada una matriz de datos y genere una estructura DOM que represente una tabla. Adjúntelo al cuerpo de una página determinada.
     -   **Pista:** usa los metodos document.createElement, document.createTextNode, y Node.appendChild.
@@ -351,7 +353,7 @@ En este tema nos centraremos en aprender cómo JavaScript aborda la programació
 
 Si vienes de Java o .NET te encontrarás un poco perdido al principio. Con ECMAScript6 se espera que simplifique el lenguaje así te sea más sencillo el cambio.
 
-**Lectura**
+**Aprendizaje**
 
 1.  Prototipos en ECMAScript 5.1 [http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/](http://yehudakatz.com/2011/08/12/understanding-prototypes-in-javascript/)
 2.  ECMAScript 6 nuevas características: [http://es6-features.org/](http://es6-features.org/).
@@ -448,7 +450,7 @@ Logger
 
 ### [](https://github.com/globant-ui/html5bootcamp#topic-3---mvc-laravel)Topic 3 - MVC Laravel
 
-**Lectura**
+**Aprendizaje**
 
 A pesar de que las palabras MVC ya no sirven para definir la estructura del proyecto, debido a la gran cantidad de capas extra que se agregaron en la complejidad de las aplicaciones, ya que
 
@@ -458,7 +460,15 @@ A pesar de que las palabras MVC ya no sirven para definir la estructura del proy
 
 - Views es una parte de Resources...
 
-Las siguientes actividades deben ser realizadas utilizando una estructura de Modelo-Vista-Controlador, un recurso didáctico que podrían revisar si es que se les escapa algún concepto de laravel es este [https://styde.net/laravel-5/](https://styde.net/laravel-5/) (Actualmente se usa laravel 8 para los proyectos y la guía esta hecha en laravel 5 pero la mayoría de los conceptos son los mismos)
+Las siguientes actividades deben ser realizadas utilizando una estructura de Modelo-Vista-Controlador, un recurso didáctico que podrían revisar si es que se les escapa algún concepto de laravel es este [https://styde.net/laravel-5/](https://styde.net/laravel-5/)
+
+Si aun no comprendes laravel aqui hay unos cursos con videos en español.
+
+https://aprendible.com/series/laravel-desde-cero
+
+https://edutin.com/curso-de-laravel-5-2698
+
+**Actualmente se usa laravel 8 para los proyectos y la guía está hecha en laravel 5 pero la mayoría de los conceptos son los mismos**
 
 **Practica**
 
@@ -466,7 +476,7 @@ Remitirse al BootCamp [https://github.com/LignumSoft/bootcamp-07-2020](https://g
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#topic-4---html5-apis)Topic 4 - HTML5 APIs
 
-**Lectura**
+**Aprendizaje**
 
 1.  Echa un vistazo a las API de HTML5: [https://developers.google.com/web/fundamentals](https://developers.google.com/web/fundamentals)
 2.  Ahora, profundice en HTML5(opcional): [http://diveintohtml5.info/](http://diveintohtml5.info/)
@@ -484,9 +494,9 @@ Remitirse al BootCamp [https://github.com/LignumSoft/bootcamp-07-2020](https://g
 
 -   Agregue soporte para arrastrar y soltar para cargar archivos de texto.
 
-5.  WebSockets
+5.  ~~WebSockets
 
--   Abra un socket web y pruébelo con este servicio [http://www.websocket.org/echo.html](http://www.websocket.org/echo.html)
+-   ~~Abra un socket web y pruébelo con este servicio [http://www.websocket.org/echo.html](http://www.websocket.org/echo.html)
 
 Ya que el servicio ya no está disponible esta actividad queda descartada momentaneamente.
 
@@ -501,7 +511,7 @@ Ya que el servicio ya no está disponible esta actividad queda descartada moment
 
 **Actividades Importantes**
 
-1, 2, 3, 4, 5
+1, 2, 3, 4, ~~5~~
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#proyecto)**Tu primer proyecto web**
 
