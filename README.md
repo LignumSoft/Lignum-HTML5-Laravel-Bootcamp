@@ -404,7 +404,7 @@ EventEmitter
 
 -   Convierta la clase Movie en una subclase de EventEmitter y utilice los métodos heredados para publicar eventos de play, pause y resume cuando se llame al método relacionado.
 
-4.  Trabajar con clases
+3.  Trabajar con clases
 
 -   Agregue un método a Movie como addCast(cast) que permita agregar uno o más Actores a un movimiento. Se debe aceptar si se brinda más de un Actor al mismo tiempo.
 
