@@ -316,7 +316,7 @@ Aprenda Media Queries ( [https://css-tricks.com/css-media-queries/](https://css-
 
 3.  Obtención de datos
 
-    -   Cree una función para obtener la respuesta de [http://api.icndb.com/jokes/random](http://api.icndb.com/jokes/random).
+    -   Cree una función para obtener la respuesta de [https://api.chucknorris.io/](https://api.chucknorris.io/).
     -   Reemplace el evento de clic del botón con esta nueva función.
     -   Escriba la respuesta dentro del elemento de la section.
     -   Crear una función reutilizable para realizar llamadas AJAX. Esta función debe aceptar un objeto de configuración y devolver una promesa ES6.
