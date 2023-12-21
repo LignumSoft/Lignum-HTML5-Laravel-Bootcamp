@@ -468,11 +468,11 @@ https://aprendible.com/series/laravel-desde-cero
 
 https://edutin.com/curso-de-laravel-5-2698
 
-**Actualmente se usa laravel 8 para los proyectos y la guía está hecha en laravel 5 pero la mayoría de los conceptos son los mismos**
+**Actualmente se usa laravel 10 para los proyectos y la guía está hecha en laravel 5 pero la mayoría de los conceptos son los mismos**
 
 **Practica**
 
-Remitirse al BootCamp [https://github.com/LignumSoft/bootcamp-07-2020](https://github.com/LignumSoft/bootcamp-07-2020) para las actividades. **Tener en cuenta que ahora se debe usar laravel 8 para la documentación, no laravel 7 como se lee en el bootcamp.**
+Remitirse al BootCamp [https://github.com/LignumSoft/bootcamp-07-2020](https://github.com/LignumSoft/bootcamp-07-2020) para las actividades. **Tener en cuenta que ahora se debe usar laravel 10 para la documentación, no laravel 7 como se lee en el bootcamp.**
 
 ### [](https://github.com/LignumSoft/Lignum-HTML5-Laravel-Bootcamp#topic-4---html5-apis)Topic 4 - HTML5 APIs
 
